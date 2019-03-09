@@ -1,7 +1,7 @@
 # Site
 title:              5tr33t1amp
-bio:                '가로등의 블로그'
-description:        "가로등입니다!"
+bio:                'Streetlamp's blog'
+description:        "streetlamp"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
