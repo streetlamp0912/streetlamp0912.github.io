@@ -34,11 +34,11 @@ body {
 	box-sizing: border-box;
 }
 .header {
-	//height: 50%;
+	height: 100%;
 	position: relative;
-	//width: 50%;
-	//min-height: 300px;
-	//text-align: left;
+	width: 100%;
+	min-height: 300px;
+	text-align: left;
 	color: $white;
 	@media #{$small} {
 		display: block !important;
